@@ -56,3 +56,10 @@
 	border-top-right-radius: 8px !important;
 }
 
+.tools-and-extensions {
+	border-top: 1px solid #00abc2;
+  	margin-right: 5px;  	
+  	padding-top: 17px;
+}
+
+
