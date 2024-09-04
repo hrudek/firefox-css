@@ -42,7 +42,17 @@
 	}
 }
 
+#newtab-button-container {
+	padding: 0 !important;
+	order: 9999 !important;
+}
+
+#tabbrowser-tabs {	
+	height: fit-content !important;
+}
+
 #statuspanel-label {
 	border-bottom-left-radius: 12px !important;
 	border-top-right-radius: 8px !important;
 }
+
